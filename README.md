@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Fullstack developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23himanshusingh" alt="23himanshusingh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himansh22976097" target="blank"><img src="https://img.shields.io/twitter/follow/himansh22976097?logo=twitter&style=for-the-badge" alt="himansh22976097" /></a> </p>
 
