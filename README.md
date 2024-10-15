@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A passionate Competitive Programmer and Fullstack developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1> <h3 align="center">A Competitive Programmer and Fullstack Developer with a Passion for Data and Backend Development</h3>
+🔭 I'm currently in my final year pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai, India.
+👨‍💻 My interests lie in the data domain, focusing on data visualization, analytics, and solving real-world problems through data structures and algorithms, with a particular emphasis on backend development.
+🌱 I'm currently expanding my skills in data analytics and exploring machine learning tools.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
